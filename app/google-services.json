@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "241299887633",
+    "firebase_url": "https://practica2-26ad7.firebaseio.com",
+    "project_id": "practica2-26ad7",
+    "storage_bucket": "practica2-26ad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241299887633:android:d8ac5c370eea6b01",
+        "android_client_info": {
+          "package_name": "com.tiempociudades.edu1010.practica2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241299887633-3pvmcaehj29uaee3ueeuge3mnnl0t95b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiempociudades.edu1010.practica2",
+            "certificate_hash": "d512b59ce17983e3928e60a424d19eed3391118c"
+          }
+        },
+        {
+          "client_id": "241299887633-u0g40vj8e6ptb0bo44ntcq1j593tv9fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdsAuwsA4yd5DHFA7BYNu29g853OwgvZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241299887633-u0g40vj8e6ptb0bo44ntcq1j593tv9fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
